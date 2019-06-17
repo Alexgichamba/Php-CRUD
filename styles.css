@@ -1,0 +1,48 @@
+body{
+    background-color: #c5c6c0;
+}
+.save_div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    width: 120%;
+    margin-bottom: 10px;
+    height: 25px;
+
+}
+.s_btn{
+    width: 60%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+
+}
+.s_btn:hover{
+    background-color: #010102;
+    color: #fefeff;
+
+
+}
+.v_link{
+    text-decoration: none;
+    width: 50%;
+    margin-right: 35%;
+    margin-left: 35%;
+    color: #010102;
+}
+.adlink{
+    float: right;
+}
+.mdlttl{
+    color: #010102;
+}
+.u_inputs{
+
+}
+.u_btn{
+
+}
+.u
